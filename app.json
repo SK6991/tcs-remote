@@ -1,0 +1,5 @@
+{
+  "name": "chatbot",
+  "description": "A chat bot Application built using frameworks Express, Mongodb, Socket.io",
+  "repository": "https://github.com/Sk1998"
+}
